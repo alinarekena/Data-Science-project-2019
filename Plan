@@ -1,5 +1,7 @@
 Plan 08/11/19
 Prasoon: Read through the materials
-Aleksandra: Cleaning the data (see 2.1 in the publication; check the web link of publication and splitting the data)
+Aleksandra: Cleaning the data (see 2.1 in the publication; check the web link of publication and splitting the data) +
+			Split the training set from the paper into training2 and validation2
+			Go through SVM homework materials
 Alina: Understand model in the paper
 Support Vector Machine
