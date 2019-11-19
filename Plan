@@ -1,7 +1,8 @@
 Plan week November 18-24:
 1) oversampling for Model3: Imbalanced towards B compounds
-2) How to to feature selection?
-3) Run SVM with 3 original features
+2) How to get model metrics on train set (we have them on test(val) set)?
+3) How to to feature selection?
+4) Run SVM with 3 original features
 
 
 Plan 08/11/19
