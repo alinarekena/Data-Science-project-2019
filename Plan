@@ -1,3 +1,9 @@
+Plan week November 18-24:
+1) oversampling for Model3: Imbalanced towards B compounds
+2) How to to feature selection?
+3) Run SVM with 3 original features
+
+
 Plan 08/11/19
 Prasoon: Read through the materials
 Aleksandra: Cleaning the data (see 2.1 in the publication; check the web link of publication and splitting the data) +
