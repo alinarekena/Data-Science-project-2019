@@ -7,7 +7,8 @@ Plan week Dec 2-8
    2.1. See sklearn.feature_selection functions
         See M5_report Task 3 for details
 3. Create a notebook for SVM algorithm:                                  PRASOON
-   3.1. Run nB and balanced models
+   3.1.Make Train-test split on Train data (don't use validation set yet)
+   3.2.Run nB and balanced models
         using 3 original features
 		try linear kernel and more
 		comment the notebook
