@@ -1,8 +1,23 @@
-Plan week November 18-24:
-1) oversampling for Model3: Imbalanced towards B compounds           PRASOON
-2) How to get model metrics on train set? - try '.predic'(X_train)'  ALINA
-3) How to to feature selection?                                      ALEKSANDRA
-4) Run SVM with 3 original features (create a notebook...)           ALINA will start
+Plan week Dec 2-8
+1. Finish RF models:                                                     ALINA
+   1.1. Imbalanced towards B in 4:1 ratio ("oversampling")
+   1.2. Get "out of bag" prediction printed for all 3 models
+   1.3. Calculate differences ("standard errors") for RF models
+2. Feature selection:                                                    ALEKSANDRA
+   2.1. See sklearn.feature_selection functions
+        See M5_report Task 3 for details
+3. Create a notebook for SVM algorithm:                                  PRASOON
+   3.1. Run nB and balanced models
+        using 3 original features
+		try linear kernel and more
+		comment the notebook
+
+
+Plan week November 18-24 --> gets postponed because of HW10 on the project
+1) oversampling for Model3: Imbalanced towards B compounds           PRASOON --> see publication
+2) How to get model metrics on train set? - try '.predict'(X_train)' ALINA --> not correct approach
+3) How to to feature selection?                                      ALEKSANDRA (postponed)
+4) Run SVM with 3 original features (create a notebook...)           ALINA will start (postponed)
 
 
 Plan 08/11/19
