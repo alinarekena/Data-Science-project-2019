@@ -1,3 +1,14 @@
+Plan LAST WEEK v1.0
+1. "Out of bag" prediction in python: last search                        ALINA
+2. Improve the architecture of results:                                  ALINA
+   2.1. How to get automatically evaluation of the "error"?
+2. Feature selection: develop algorithms to apply to SVM notebook        ALEKSANDRA
+3. Update SVM notebook:                                                  PRASOON
+   3.1. Run models of all kernels
+   3.2. Try playing with other parameters
+4. Start developing notebook for other classifiers in our plan...
+
+
 Plan week Dec 2-8
 1. Finish RF models:                                                     ALINA
    1.1. Imbalanced towards B in 4:1 ratio ("oversampling")
