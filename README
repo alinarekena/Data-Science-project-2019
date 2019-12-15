@@ -4,6 +4,5 @@ To get models, presented in the Results section, notebooks XGBoost_Validation, O
 
 Final sets of parameters were chosen after running XGBoost_Train, Old_Train_SVM_Naive and Old_Train_LightGBM with different model parameters, manually or by loops. Linear SVM was chosen after trying Gaussian, Linear Polynomial and Sigmoid kernels (notebooks SVM - Gaussian Kernel, SVM - Linear, SVM - Polynomial Kernel and SVM - Sigmoid Kernel respectively). Other types of SVM were either not effective or took to much time to run.
 
-
 All those models were run using 3 selected features from the paper. We as well performed our feature selection, which can be found in the Features selection notebook. The algorithm is based on random shuffling and splitting of the dataset, thus can give a slightly different result every time.
 Notebooks marked with New used features selected by our algorithm as an input, but the performance was insufficient and they were not included in final results.
